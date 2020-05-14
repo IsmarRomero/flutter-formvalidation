@@ -3,8 +3,8 @@
 ### Tecnologias utilizadas
 
 * Flutter
-* 
-* 
+* Patron Bloc
+* RxDart
 
 ### Capturas de pantalla
 
