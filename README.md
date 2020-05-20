@@ -5,6 +5,10 @@
 * Flutter
 * Patron Bloc
 * RxDart
+* Services Rest
+* Firebase Auth Rest API
+* Manejo de Tokens
+* Alertas
 
 ### Capturas de pantalla
 
